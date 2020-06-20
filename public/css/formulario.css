@@ -1,0 +1,11 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.prueba-form {
+    width: 20 rem;
+    max-width: 90%;
+    margin: auto;
+}
